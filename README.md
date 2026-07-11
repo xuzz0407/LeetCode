@@ -22,10 +22,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/xuzz0407/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/xuzz0407/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/xuzz0407/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/xuzz0407/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/xuzz0407/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/xuzz0407/LeetCode/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
@@ -54,4 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/xuzz0407/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/xuzz0407/LeetCode/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/xuzz0407/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/xuzz0407/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 <!---LeetCode Topics End-->
