@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/xuzz0407/LeetCode/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/xuzz0407/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -71,4 +72,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/xuzz0407/LeetCode/tree/main/1291-sequential-digits/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/xuzz0407/LeetCode/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/xuzz0407/LeetCode/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 <!---LeetCode Topics End-->
