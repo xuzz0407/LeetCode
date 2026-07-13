@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/xuzz0407/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/xuzz0407/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/xuzz0407/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Binary Search
@@ -80,4 +81,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/xuzz0407/LeetCode/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0012-integer-to-roman](https://github.com/xuzz0407/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0012-integer-to-roman](https://github.com/xuzz0407/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
