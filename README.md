@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/xuzz0407/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/xuzz0407/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/xuzz0407/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +106,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/xuzz0407/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/xuzz0407/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
