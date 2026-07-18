@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/xuzz0407/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/xuzz0407/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/xuzz0407/LeetCode/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
 ## Bit Manipulation
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/xuzz0407/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/xuzz0407/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xuzz0407/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -119,4 +121,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/xuzz0407/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/xuzz0407/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/xuzz0407/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
