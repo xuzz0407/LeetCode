@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/xuzz0407/LeetCode/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/xuzz0407/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/xuzz0407/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xuzz0407/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/xuzz0407/LeetCode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/xuzz0407/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
