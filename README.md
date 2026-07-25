@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/xuzz0407/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/xuzz0407/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1260-shift-2d-grid](https://github.com/xuzz0407/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/xuzz0407/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/xuzz0407/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/xuzz0407/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/xuzz0407/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/xuzz0407/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/xuzz0407/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/xuzz0407/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xuzz0407/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/xuzz0407/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/xuzz0407/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
