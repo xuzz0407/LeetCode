@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/xuzz0407/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/xuzz0407/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/xuzz0407/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1260-shift-2d-grid](https://github.com/xuzz0407/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/xuzz0407/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/xuzz0407/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/xuzz0407/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/xuzz0407/LeetCode/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/xuzz0407/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
+| [0486-predict-the-winner](https://github.com/xuzz0407/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/xuzz0407/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xuzz0407/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xuzz0407/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -192,4 +195,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/xuzz0407/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/xuzz0407/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/xuzz0407/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
