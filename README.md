@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/xuzz0407/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xuzz0407/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xuzz0407/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/xuzz0407/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/xuzz0407/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/xuzz0407/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/xuzz0407/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/xuzz0407/LeetCode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xuzz0407/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xuzz0407/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/xuzz0407/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/xuzz0407/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/xuzz0407/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/xuzz0407/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/xuzz0407/LeetCode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/xuzz0407/LeetCode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/xuzz0407/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/xuzz0407/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
