@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/xuzz0407/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xuzz0407/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/xuzz0407/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/xuzz0407/LeetCode/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/xuzz0407/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/xuzz0407/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/xuzz0407/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/xuzz0407/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/xuzz0407/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/xuzz0407/LeetCode/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/xuzz0407/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/xuzz0407/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/xuzz0407/LeetCode/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/xuzz0407/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -306,4 +309,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/xuzz0407/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/xuzz0407/LeetCode/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 <!---LeetCode Topics End-->
