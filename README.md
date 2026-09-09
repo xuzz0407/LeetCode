@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/xuzz0407/LeetCode/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xuzz0407/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/xuzz0407/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/xuzz0407/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -170,10 +171,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/xuzz0407/LeetCode/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xuzz0407/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/xuzz0407/LeetCode/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xuzz0407/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
