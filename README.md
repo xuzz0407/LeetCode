@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/xuzz0407/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/xuzz0407/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/xuzz0407/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0835-image-overlap](https://github.com/xuzz0407/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/xuzz0407/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/xuzz0407/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/xuzz0407/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/xuzz0407/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/xuzz0407/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/xuzz0407/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Segment Tree
