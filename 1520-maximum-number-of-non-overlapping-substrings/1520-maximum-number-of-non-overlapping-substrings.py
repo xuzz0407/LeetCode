@@ -1,49 +1,52 @@
 class Solution:
-    def maxNumOfSubstrings(self, s: str) -> List[str]:
-        # 记录每种字母的出现位置
-        pos = defaultdict(list)
-        for i, b in enumerate(s):
-            pos[b].append(i)
+    def maxNumOfSubstrings(self, s: str) -> list[str]:
+        n = len(s)
 
-        # 构建有向图
-        g = defaultdict(list)
-        for i, p in pos.items():
-            l, r = p[0], p[-1]
-            for j, q in pos.items():
-                if j == i:
-                    continue
-                k = bisect_left(q, l)
-                # [l, r] 包含第 j 个小写字母
-                if k < len(q) and q[k] <= r:
-                    g[i].append(j)
+        first = [n] * 26
+        last = [-1] * 26
 
-        # 遍历有向图
-        def dfs(x: str) -> None:
-            nonlocal l, r
-            vis.add(x)
-            p = pos[x]
-            l = min(l, p[0])  # 合并区间
-            r = max(r, p[-1])
-            for y in g[x]:
-                if y not in vis:
-                    dfs(y)
+        for i, ch in enumerate(s):
+            x = ord(ch) - ord('a')
+            first[x] = min(first[x], i)
+            last[x] = i
 
-        intervals = []
-        for i, p in pos.items():
-            # 如果要包含第 i 个小写字母，最终得到的区间是什么？
-            vis = set()
-            l, r = inf, 0
-            dfs(i)
-            intervals.append((l, r))
-
-        # 435. 无重叠区间
-        # 直接计算所选子串
         ans = []
-        intervals.sort(key=lambda x: x[1])
-        pre_r = -1
-        for l, r in intervals:
-            if l > pre_r:
-                ans.append(s[l: r + 1])
-                pre_r = r
-        return ans
+        right = -1
 
+        for l in range(n):
+            x = ord(s[l]) - ord('a')
+
+            # 只從第一次出現的位置開始
+            if first[x] != l:
+                continue
+
+            r = last[x]
+            i = l
+            valid = True
+
+            while i <= r:
+                y = ord(s[i]) - ord('a')
+
+                # 有字元第一次出現在 l 左邊
+                # 代表這個區間不可能合法
+                if first[y] < l:
+                    valid = False
+                    break
+
+                r = max(r, last[y])
+                i += 1
+
+            if not valid:
+                continue
+
+            # 沒有重疊
+            if l > right:
+                ans.append(s[l:r + 1])
+
+            # 有重疊，換成更短、結束更早的新區間
+            else:
+                ans[-1] = s[l:r + 1]
+
+            right = r
+
+        return ans
