@@ -3,17 +3,17 @@ class Solution:
         ans = [0] * k
         dp = [0] * k
 
-        for n in nums:
-            n %= k
-            ndp = [0] * k
-            ndp[n] += 1
+        for x in nums:
+            f = [0] * k
+            x %= k
+            f[x] = 1
 
-            for r in range(k):
-                ndp[(r * n) % k] += dp[r]
+            for i, cnt in enumerate(dp):
+                f[i * x % k] += cnt
+
+            for i in range(k):
+                ans[i] += f[i]
+
+            dp = f
             
-            for r in range(k):
-                ans[r] += ndp[r]
-
-            dp = ndp
-
         return ans
