@@ -6,11 +6,11 @@ class Solution:
             return False
 
         @cache
-        def dfs(x: int, y: int, c: int)-> bool:
+        def dfs(x, y, c):
             if c > m - x + n - y - 1:
                 return False
             
-            if x == m - 1 and y ==  n - 1:
+            if x == m - 1 and y ==  n - 1: # final
                 return c == 1
 
             c += 1 if grid[x][y] == '(' else -1
