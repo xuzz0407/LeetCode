@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/xuzz0407/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/xuzz0407/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0486-predict-the-winner](https://github.com/xuzz0407/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/xuzz0407/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/xuzz0407/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/xuzz0407/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/xuzz0407/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/xuzz0407/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/xuzz0407/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/xuzz0407/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/xuzz0407/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/xuzz0407/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -425,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/xuzz0407/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/xuzz0407/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/xuzz0407/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/xuzz0407/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/xuzz0407/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
