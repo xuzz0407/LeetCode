@@ -1,34 +1,29 @@
 class Solution:
     def removeInvalidParentheses(self, s: str) -> list[str]:
-        l = r = 0
+        def check(s):
+            l = 0
+            for ch in s:
+                if ch == '(':
+                    l += 1
+                if ch == ')':
+                    if l == 0: return False
+                    l -= 1
 
-        for ch in s:
-            if ch == '(':  l += 1
-            elif ch == ')':
-                if l: l -= 1
-                else: r += 1
+            return l == 0
 
-        ans = set()
+        level = {s}
 
-        def dfs(i, p, tmp, l, r):
-            if tmp < 0: return
+        while True:
+            ans = [t for t in level if check(t)]
+            if ans: return ans
+            nxt = set()
 
-            if i == len(s):
-                if tmp == 0 and l == 0 and r == 0: ans.add(p)
-                return
+            for t in level:
+                for i, ch in enumerate(t):
+                    if ch in '()':
+                        nxt.add(t[:i]+t[i+1:])
 
-            ch = s[i]
+            level = nxt
 
-            if ch == '(': 
-                if l: dfs(i+1, p, tmp, l-1, r)
-                dfs(i+1, p+ch, tmp+1, l, r)
 
-            elif ch == ')':
-                if r: dfs(i+1, p, tmp, l, r-1)
-                if tmp: dfs(i+1, p+ch, tmp-1, l, r)
-
-            else: dfs(i + 1, p+ch, tmp, l, r)
-
-        dfs(0, "", 0, l, r)
-
-        return list(ans)
+            
