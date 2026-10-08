@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/xuzz0407/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/xuzz0407/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/xuzz0407/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/xuzz0407/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/xuzz0407/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/xuzz0407/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/xuzz0407/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/xuzz0407/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xuzz0407/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/xuzz0407/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/xuzz0407/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/xuzz0407/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/xuzz0407/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/xuzz0407/LeetCode/tree/main/1934-evaluate-the-bracket-pairs-of-a-string/) | undefined |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/xuzz0407/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/xuzz0407/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/xuzz0407/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/xuzz0407/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/xuzz0407/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -452,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/xuzz0407/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/xuzz0407/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/xuzz0407/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/xuzz0407/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/xuzz0407/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/xuzz0407/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
