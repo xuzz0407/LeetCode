@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/xuzz0407/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/xuzz0407/LeetCode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/xuzz0407/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xuzz0407/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/xuzz0407/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xuzz0407/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/xuzz0407/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/xuzz0407/LeetCode/tree/main/1934-evaluate-the-bracket-pairs-of-a-string/) | undefined |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/xuzz0407/LeetCode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/xuzz0407/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xuzz0407/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/xuzz0407/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xuzz0407/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xuzz0407/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/xuzz0407/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xuzz0407/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/xuzz0407/LeetCode/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/xuzz0407/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/xuzz0407/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -442,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xuzz0407/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/xuzz0407/LeetCode/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
