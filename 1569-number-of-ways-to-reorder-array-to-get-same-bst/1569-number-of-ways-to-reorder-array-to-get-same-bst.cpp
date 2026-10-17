@@ -4,9 +4,7 @@ public:
     vector<long long> ways;
     int cnt;
 
-    DSU(int n): parent(n), sz(n, 1), ways(n, 1), cnt(n) {
-        iota(parent.begin(), parent.end(), 0);
-    }
+    DSU(int n): parent(n), sz(n, 1), ways(n, 1), cnt(n) {iota(parent.begin(), parent.end(), 0);}
 
     int find(int x) {
         if(parent[x] != x) parent[x] = find(parent[x]);
