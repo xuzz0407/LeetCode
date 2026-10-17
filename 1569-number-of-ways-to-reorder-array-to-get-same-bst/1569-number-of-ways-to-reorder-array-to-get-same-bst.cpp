@@ -47,7 +47,7 @@ public:
 
         for(int k = n-1; k >= 0; k--) {
             int i = lower_bound(a.begin(), a.end(), nums[k]) - a.begin();
-            int l = i > 0 && ok[i-1] ? dsu.find(i-1) : -1,r = i+1 < n && ok[i+1] ? dsu.find(i+1) : -1;
+            int l = i > 0 && ok[i-1] ? dsu.find(i-1) : -1, r = i+1 < n && ok[i+1] ? dsu.find(i+1) : -1;
             int lo = l == -1 ? 0 : dsu.sz[l], hi = r == -1 ? 0 : dsu.sz[r];
             long long cur = f[lo+hi] * inv[lo] % mod * inv[hi] % mod;
             if(l != -1) cur = cur * dsu.ways[l] % mod;
