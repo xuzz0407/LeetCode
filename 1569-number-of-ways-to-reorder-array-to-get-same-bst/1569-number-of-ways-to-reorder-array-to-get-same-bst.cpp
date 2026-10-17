@@ -24,7 +24,7 @@ public:
 
 class Solution {
 private:
-    static constexpr long long mod = 1000000007LL;
+    static constexpr long long mod = 1e9 + 7;
     long long power(long long a, long long b) {
         long long res = 1;
         while(b) {
