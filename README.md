@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2213-longest-substring-of-one-repeating-character](https://github.com/xuzz0407/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/xuzz0407/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/xuzz0407/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/xuzz0407/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/xuzz0407/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/xuzz0407/LeetCode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/xuzz0407/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/xuzz0407/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/xuzz0407/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/xuzz0407/LeetCode/tree/main/1934-evaluate-the-bracket-pairs-of-a-string/) | undefined |
+| [2747-count-zero-request-servers](https://github.com/xuzz0407/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/xuzz0407/LeetCode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/xuzz0407/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xuzz0407/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/xuzz0407/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/xuzz0407/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/xuzz0407/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/xuzz0407/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xuzz0407/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xuzz0407/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/xuzz0407/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -365,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/xuzz0407/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/xuzz0407/LeetCode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/xuzz0407/LeetCode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/xuzz0407/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/xuzz0407/LeetCode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/xuzz0407/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/xuzz0407/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
