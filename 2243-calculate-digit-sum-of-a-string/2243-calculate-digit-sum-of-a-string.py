@@ -3,7 +3,6 @@ class Solution:
         while len(s) > k:
             tmp = []
             for i in range(0, len(s), k):
-                total = sum(map(int, s[i:i+k]))
-                tmp.append(str(total))
+                tmp.append(str(sum(map(int, s[i:i+k]))))
             s = ''.join(tmp)
         return s
