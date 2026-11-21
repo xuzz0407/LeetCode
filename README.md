@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/xuzz0407/LeetCode/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/xuzz0407/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/xuzz0407/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/xuzz0407/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/xuzz0407/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/xuzz0407/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/xuzz0407/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xuzz0407/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xuzz0407/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/xuzz0407/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/xuzz0407/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/xuzz0407/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/xuzz0407/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/xuzz0407/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xuzz0407/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/xuzz0407/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/xuzz0407/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/xuzz0407/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/xuzz0407/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/xuzz0407/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
@@ -288,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/xuzz0407/LeetCode/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xuzz0407/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xuzz0407/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/xuzz0407/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/xuzz0407/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -374,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xuzz0407/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/xuzz0407/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/xuzz0407/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/xuzz0407/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/xuzz0407/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/xuzz0407/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/xuzz0407/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
