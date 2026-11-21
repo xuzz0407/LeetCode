@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/xuzz0407/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/xuzz0407/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/xuzz0407/LeetCode/tree/main/1934-evaluate-the-bracket-pairs-of-a-string/) | undefined |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/xuzz0407/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/xuzz0407/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/xuzz0407/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/xuzz0407/LeetCode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
