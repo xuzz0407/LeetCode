@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3903-smallest-stable-index-i](https://github.com/xuzz0407/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3934-smallest-unique-subarray](https://github.com/xuzz0407/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/xuzz0407/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/xuzz0407/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/xuzz0407/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/xuzz0407/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/xuzz0407/LeetCode/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/xuzz0407/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3693-climbing-stairs-ii](https://github.com/xuzz0407/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/xuzz0407/LeetCode/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/xuzz0407/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/xuzz0407/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
